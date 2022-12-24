@@ -74,7 +74,13 @@ local blips = {
    {title="Supérette", colour=25, id=52, x = -3241.96, y = 1001.3},
    {title="Supérette", colour=25, id=52, x = -1820.63, y = 792.94},
    {title="Supérette", colour=25, id=52, x = 549.226, y = 2671.45},
-   {title="Supérette", colour=25, id=52, x = 1165.45, y = 2711.06}
+   {title="Supérette", colour=25, id=52, x = 1165.45, y = 2711.06},
+   {title="Supérette", colour=25, id=52, x = -1487.98, y = -378.8},
+   {title="Supérette", colour=25, id=52, x = 2679.29, y = 3280.52},
+   {title="Supérette", colour=25, id=52, x = 1392.22, y = 3604.57},
+   {title="Supérette", colour=25, id=52, x = 1961.72, y = 3740.42},
+   {title="Supérette", colour=25, id=52, x = 1698.03, y = 4924.76},
+   {title="Supérette", colour=25, id=52, x = 1729.2, y = 6414.16}
 }
 
 Citizen.CreateThread(function()
